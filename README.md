@@ -21,3 +21,6 @@ After Installation For Dependencies are complete,
 Run Command `php artisan migrate --seed`
 
 Run Command `php artisan serve`
+
+
+Open browser, enter url `http://127.0.0.1:8000`
