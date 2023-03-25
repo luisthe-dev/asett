@@ -1,11 +1,11 @@
-## ASETT...
+# ASETT...
 
-# Requirements
+## Requirements
 - `PHP Verson 8.1`
 - `Laravel Version 10.0`
 
 
-# Installation
+## Installation
 - Install Apache & PHP, advisable installer - [XAMPP](https://apachefriends.org)
 - Installer Composer, a dependency manager for PHP - Follow Instructions on [Download Page](https://getcomposer.org/)
 - Install Git Command Tool - [Download Installer](https://git-scm.com/)
