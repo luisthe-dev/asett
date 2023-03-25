@@ -17,7 +17,7 @@ class CryptoCurrencyController extends Controller
     public function index()
     {
 
-        // (new HistoryController)->index();
+        (new HistoryController)->index();
 
         $allCrypto = CryptoCurrency::all();
         $todayDate = Carbon::now();
